@@ -1,4 +1,3 @@
-
 Rainmaker -- the pragmatic UEC manager
 ======================================
 
