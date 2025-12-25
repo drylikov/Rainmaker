@@ -16,4 +16,3 @@ Assumptions
 *  config/rainmaker.yml contains all the public keys you want to bootstrap
    your new VM with
 *  You have the ruports gem / rip installed locally
-
