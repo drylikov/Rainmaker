@@ -17,4 +17,3 @@ Assumptions
    your new VM with
 *  You have the ruports gem / rip installed locally
 
-
